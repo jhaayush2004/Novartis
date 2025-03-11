@@ -49,6 +49,10 @@ This project addresses the problem of predicting the Study Recruitment Rate (RR)
 - Implement continuous learning frameworks for model updates with new data.
 - Address temporal dynamics using advanced time-series models.
 
+## Lead Members
+-  Ayush Shaurya Jha(Mentor & Lead)
+-  Satyam kumar(Lead) 
+  
 ## Acknowledgments
 The project utilized insights from academic papers and was powered by an NVIDIA A100 GPU through OLA Krutrim.
 
