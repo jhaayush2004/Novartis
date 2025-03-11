@@ -1,5 +1,5 @@
 # Predicting Recruitment Rate in Clinical Trials
-
+## National Winning Solution at NEST hackathon out of 32000+ registrations across India.
 ## Overview
 This project addresses the problem of predicting the Study Recruitment Rate (RR) for clinical trials, a critical aspect of the drug development process. By implementing a structured approach leveraging advanced machine learning techniques and large language models, this solution provides actionable insights to optimize clinical trial recruitment strategies.
 
